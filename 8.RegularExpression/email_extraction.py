@@ -14,7 +14,7 @@ pattern = r"([\w\.-]+)@([\w\.-]+)(\.[\w\.]+)"
 # followed by the @ sign, then another similar word, then a dot and another word.
 
 str1 = "Please contact info@sololearn.com for assistance"
-str2 = "My email addresses are npulee@163.com and lw15@mail.ustc.edu.cn"
+str2 = "My email addresses are hahaha@163.com and hehehe@mail.cn"
 
 match = re.search(pattern, str1)
 if match:
